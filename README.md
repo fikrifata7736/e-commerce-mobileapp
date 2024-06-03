@@ -6,10 +6,10 @@ Your Favorite Brands, Just a Click Away.
 
 
 
-![Sign In App](/dokumentasi/app/signin.png)
+![Sign In App](/dokumentasi/app/signin.PNG)
 
-![Sign Up App](/dokumentasi/app/signup.png)
+![Sign Up App](/dokumentasi/app/signup.PNG)
 
-![Figma App](/dokumentasi/figma/Capture.png)
+![Figma App](/dokumentasi/figma/Capture.PNG)
 
 
